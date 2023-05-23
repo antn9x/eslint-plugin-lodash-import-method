@@ -8,6 +8,7 @@
     "eslint-plugin"
   ],
   "author": "antn9x",
+  "repository": "https://github.com/antn9x/eslint-plugin-lodash-import-method",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
   "scripts": {
