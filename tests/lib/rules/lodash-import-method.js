@@ -8,7 +8,7 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-const rule = require("../../../lib/rules/lodash-import-method"),
+const rule = require("../../../lib/rules/submodule"),
   RuleTester = require("eslint").RuleTester;
 
 
@@ -17,7 +17,7 @@ const rule = require("../../../lib/rules/lodash-import-method"),
 //------------------------------------------------------------------------------
 
 const ruleTester = new RuleTester();
-ruleTester.run("lodash-import-method", rule, {
+ruleTester.run("submodule", rule, {
   valid: [
     // give me some code that won't trigger a warning
     {
