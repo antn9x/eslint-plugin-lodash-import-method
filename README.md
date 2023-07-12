@@ -1,6 +1,6 @@
 # eslint-plugin-lodash-import-method
 
-import lodash submodule only
+- import lodash submodule only with `auto fix`
 
 ## Installation
 
