@@ -1,8 +1,12 @@
 {
   "name": "eslint-plugin-lodash-import-method",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "import lodash submodule only",
   "keywords": [
+    "lodash",
+    "import",
+    "submodule",
+    "method",
     "eslint",
     "eslintplugin",
     "eslint-plugin"
